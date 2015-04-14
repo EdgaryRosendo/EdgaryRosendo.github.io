@@ -1,5 +1,7 @@
 ---
 layout: default
-title: Página de ejemplo
 ---
-Página de ejemplo
+Edgary Rosendo
+¡Lista mi tarea de Informática!
+JajajajajaxD
+¡Y que VIVA el Pudín!<3 
