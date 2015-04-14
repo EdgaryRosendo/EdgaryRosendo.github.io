@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Edgary Rosendo
 ---
 Edgary Rosendo
 ¡Lista mi tarea de Informática!
